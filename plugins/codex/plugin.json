@@ -1,0 +1,17 @@
+{
+  "name": "codex",
+  "displayName": "Codex Companion",
+  "version": "1.1.5",
+  "description": "Collaborate with OpenAI Codex from Antigravity for code reviews, adversarial design reviews, and delegated coding tasks via isolated background workers.",
+  "logo": "assets/logo.svg",
+  "author": {
+    "name": "ZhuJHua"
+  },
+  "homepage": "https://github.com/ZhuJHua/codex-plugin-agy",
+  "repository": "https://github.com/ZhuJHua/codex-plugin-agy",
+  "suggestedPrompts": [
+    "Run a Codex review on my uncommitted changes",
+    "Run an adversarial Codex review against main focusing on edge cases and failure modes",
+    "Delegate investigating and fixing the failing tests to Codex"
+  ]
+}
